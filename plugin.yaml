@@ -1,0 +1,7 @@
+# Copyright (C) 2026 lazypaccap
+name: smalbedwars
+main: io.github.lazypaccap.smalbedwars.spigot.Main
+version: "0.0.0-thegitversion"
+api-version: '1.21'
+author: lazypaCCap
+website: https://github.com/lazypaCCap/smalBedwars
